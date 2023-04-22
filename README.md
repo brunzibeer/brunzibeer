@@ -1,7 +1,7 @@
  ### Hi, I'm Mattia 👋 
 
- - 👨‍🎓 I’m a Computer Engineering M.Sc. student at the University of Modena and Reggio Emilia ([UNIMORE](https://international.unimore.it/)) 
- - 📚 I'm currently learning the topics of Artificial Intelligence, Machine & Deep Learning, Computer Vision, Distributed Intelligent Systems, Robotics and IoT.
+ - 👨‍🎓 I graduated in Computer Engineering M.Sc. at the University of Modena and Reggio Emilia ([UNIMORE](https://international.unimore.it/)) 
+ - 📚 My background is mixed between AI, Data Analysis, Robotics and Full-Stack Development.
   
   ### My Vision🌄 
   Always be hungry of knowledge in order to be a better version of yourself every single day. 
