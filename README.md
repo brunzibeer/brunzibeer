@@ -2,7 +2,7 @@
 
  - 👨🏻‍🎓 I graduated cum Laude in Computer Engineering M.Sc. at the University of Modena and Reggio Emilia ([UNIMORE](https://international.unimore.it/)) 
  - 📚 My background is mixed between Machine Learning/Deep Learning, Computer Vision and Full-Stack Development.
- - 👨🏻‍💻 Currently working as a Software Engineer at CloudFire Srl
+ - 👨🏻‍💻 Currently a PhD student at AImageLab UniMORE in Modena.
   
   ### My Vision🌄 
   Always be hungry of knowledge in order to be a better version of yourself every single day. 
